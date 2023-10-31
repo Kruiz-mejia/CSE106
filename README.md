@@ -1,2 +1,2 @@
-# CSE106-
+# CSE106
 Project 01
